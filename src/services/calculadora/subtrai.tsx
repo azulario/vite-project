@@ -1,0 +1,1 @@
+export const subtrai = (a: number, b: number) => a - b;

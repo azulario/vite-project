@@ -1,0 +1,1 @@
+export const multiplica = (a: number, b: number) => a * b;
